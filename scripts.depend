@@ -5,7 +5,7 @@
 
 1698350998 c:\users\sebastian\desktop\juan\dev\just make up\scripts\cargarcadena.h
 
-1702564920 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\cliente.cpp
+1702579130 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\cliente.cpp
 	<iostream>
 	<cstring>
 	"CargarCadena.h"
@@ -41,13 +41,19 @@
 
 1701108876 c:\users\sebastian\desktop\juan\dev\just make up\scripts\fecha.h
 
-1702564716 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\main.cpp
+1702579059 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\main.cpp
 	<iostream>
-	"Cliente.h"
+	"App.h"
 
-1702563290 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\direccion.cpp
+1702565054 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\direccion.cpp
 	<iostream>
 	<cstring>
-	"CargarCadena.h"
 	"Direccion.h"
+
+1702579119 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\app.cpp
+	<iostream>
+	"App.h"
+
+1702579015 c:\users\sebastian\desktop\juan\dev\just make up\scripts\app.h
+	"rlutil.h"
 

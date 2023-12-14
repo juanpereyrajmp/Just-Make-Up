@@ -86,7 +86,7 @@ void Cliente::mostrar(){
     rlutil::setColor(rlutil::WHITE);
     cout << telefono << endl;
     if (!estado){
-        rlutil::setColor(rlutil::RED);
+        rlutil::setColor(rlutil::LIGHTRED);
         cout << "CLIENTE INACTIVO" << endl;
         rlutil::setColor(rlutil::WHITE);
     }

@@ -2,18 +2,12 @@
 
 using namespace std;
 
-#include "Cliente.h"
+#include "App.h"
 
 int main(){
 
-    Cliente num;
-
-    num.cargar();
-
-    system("pause");
-    system("cls");
-
-    num.mostrar();
+    App app;
+    app.run();
 
     return 0;
 }
