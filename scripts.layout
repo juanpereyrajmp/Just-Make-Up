@@ -2,9 +2,9 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="ClienteArchivo.cpp" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="ClienteArchivo.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1499" topLine="5" />
+			<Cursor1 position="1151" topLine="12" />
 		</Cursor>
 		<Folding>
 			<Collapse line="8" />
@@ -12,18 +12,22 @@
 			<Collapse line="25" />
 			<Collapse line="38" />
 			<Collapse line="51" />
-			<Collapse line="70" />
 			<Collapse line="82" />
 		</Folding>
 	</File>
-	<File name="Cliente.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Direccion.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="2331" topLine="70" />
+			<Cursor1 position="122" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="Direccion.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="App.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="61" topLine="0" />
+			<Cursor1 position="131" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ClienteListarMenu.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="697" topLine="16" />
 		</Cursor>
 	</File>
 	<File name="rlutil.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -31,24 +35,76 @@
 			<Cursor1 position="13460" topLine="165" />
 		</Cursor>
 	</File>
-	<File name="ClienteArchivo.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Cliente.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="618" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="Direccion.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="935" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="ClienteArchivo.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="218" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="Cliente.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="App.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="81" topLine="0" />
+			<Cursor1 position="856" topLine="24" />
 		</Cursor>
+	</File>
+	<File name="ClienteMenu.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="107" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ClienteManager.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7437" topLine="12" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="118" />
+			<Collapse line="140" />
+			<Collapse line="195" />
+			<Collapse line="218" />
+			<Collapse line="233" />
+			<Collapse line="256" />
+			<Collapse line="262" />
+			<Collapse line="268" />
+			<Collapse line="274" />
+			<Collapse line="280" />
+			<Collapse line="286" />
+			<Collapse line="292" />
+		</Folding>
 	</File>
 	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="94" topLine="0" />
+			<Cursor1 position="130" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="Direccion.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Cliente.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="122" topLine="0" />
+			<Cursor1 position="870" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="12" />
+			<Collapse line="15" />
+			<Collapse line="18" />
+			<Collapse line="21" />
+			<Collapse line="26" />
+			<Collapse line="29" />
+			<Collapse line="32" />
+			<Collapse line="35" />
+			<Collapse line="38" />
+		</Folding>
+	</File>
+	<File name="ClienteManager.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="285" topLine="0" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>

@@ -23,9 +23,6 @@ public:
     void setDireccion(Direccion _direccion);
     void setTelefono(const char * _telefono);
     void setEstado(bool _estado);
-
-    void cargar();
-    void mostrar();
 };
 
 #endif // CLIENTE_H

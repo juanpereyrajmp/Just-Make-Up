@@ -8,6 +8,7 @@ int main(){
 
     App app;
     app.run();
+    app.goodbye();
 
     return 0;
 }

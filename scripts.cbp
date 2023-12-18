@@ -42,6 +42,12 @@
 		<Unit filename="Cliente.h" />
 		<Unit filename="ClienteArchivo.cpp" />
 		<Unit filename="ClienteArchivo.h" />
+		<Unit filename="ClienteListarMenu.cpp" />
+		<Unit filename="ClienteListarMenu.h" />
+		<Unit filename="ClienteManager.cpp" />
+		<Unit filename="ClienteManager.h" />
+		<Unit filename="ClienteMenu.cpp" />
+		<Unit filename="ClienteMenu.h" />
 		<Unit filename="Direccion.cpp" />
 		<Unit filename="Direccion.h" />
 		<Unit filename="Fecha.cpp" />

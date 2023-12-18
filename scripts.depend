@@ -5,13 +5,13 @@
 
 1698350998 c:\users\sebastian\desktop\juan\dev\just make up\scripts\cargarcadena.h
 
-1702579130 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\cliente.cpp
+1702644683 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\cliente.cpp
 	<iostream>
 	<cstring>
 	"CargarCadena.h"
 	"Cliente.h"
 
-1702563258 c:\users\sebastian\desktop\juan\dev\just make up\scripts\cliente.h
+1702644691 c:\users\sebastian\desktop\juan\dev\just make up\scripts\cliente.h
 	"Direccion.h"
 	"rlutil.h"
 
@@ -41,19 +41,60 @@
 
 1701108876 c:\users\sebastian\desktop\juan\dev\just make up\scripts\fecha.h
 
-1702579059 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\main.cpp
+1702643522 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\main.cpp
 	<iostream>
 	"App.h"
 
-1702565054 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\direccion.cpp
+1702645815 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\direccion.cpp
 	<iostream>
 	<cstring>
 	"Direccion.h"
 
-1702579119 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\app.cpp
+1702649832 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\app.cpp
 	<iostream>
 	"App.h"
 
-1702579015 c:\users\sebastian\desktop\juan\dev\just make up\scripts\app.h
+1702649878 c:\users\sebastian\desktop\juan\dev\just make up\scripts\app.h
 	"rlutil.h"
+	"ClienteMenu.h"
+
+1702580548 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\clientearchivo.cpp
+	<iostream>
+	<cstring>
+	"ClienteArchivo.h"
+
+1702579657 c:\users\sebastian\desktop\juan\dev\just make up\scripts\clientearchivo.h
+	"rlutil.h"
+	"Cliente.h"
+
+1702646330 c:\users\sebastian\desktop\juan\dev\just make up\scripts\menues.h
+	"rlutil.h"
+	"ClienteManager.h"
+
+1702647701 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\menues.cpp
+	<iostream>
+	"Menues.h"
+
+1702650725 c:\users\sebastian\desktop\juan\dev\just make up\scripts\clientemanager.h
+	"Cliente.h"
+	"ClienteArchivo.h"
+
+1702652314 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\clientemanager.cpp
+	<iostream>
+	"ClienteManager.h"
+
+1702651384 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\clientemenu.cpp
+	<iostream>
+	"ClienteMenu.h"
+
+1702650048 c:\users\sebastian\desktop\juan\dev\just make up\scripts\clientemenu.h
+	"ClienteManager.h"
+	"ClienteListarMenu.h"
+
+1702650008 c:\users\sebastian\desktop\juan\dev\just make up\scripts\clientelistarmenu.h
+	"ClienteManager.h"
+
+1702650603 source:c:\users\sebastian\desktop\juan\dev\just make up\scripts\clientelistarmenu.cpp
+	<iostream>
+	"ClienteListarMenu.h"
 

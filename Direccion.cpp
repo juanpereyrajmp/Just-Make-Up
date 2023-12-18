@@ -28,8 +28,23 @@ const char *Direccion::getLocalidad(){
 void Direccion::cargar(){
     cout << "Calle: ";
     cargarCadena(_calle,29);
-    cout << "Altura: ";
-    cin >> _altura;
+
+    bool aux = true;
+
+    while(aux){
+        cout << "Altura: ";
+        cin >> _altura;
+        if (_altura <= 0){
+            rlutil::setColor(rlutil::LIGHTRED);
+            cout << "LA ALTURA NO PUEDE SER NEGATIVA. INGRESE OTRA" << endl;
+            rlutil::setColor(rlutil::WHITE);
+            aux = true;
+        }
+        else{
+            aux = false;
+        }
+    }
+
     cout << "Localidad: ";
     cargarCadena(_localidad,29);
 }
